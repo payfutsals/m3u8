@@ -1,16 +1,19 @@
 #EXTM3U
- 
-#EXTINF:1,ATTV
+
+#EXTINF:1,Multiview
+http://49.0.87.24:1936/Multiview/Live1/playlist.m3u8
+
+#EXTINF:2,ATTV
 http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
  
-#EXTINF:2,MEDIATV
+#EXTINF:3,MEDIATV
 http://49.0.87.24:1936/HDMediatv/Mediatv/playlist.m3u8
  
-#EXTINF:3,JOMYUT
+#EXTINF:4,JOMYUT
 http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
 
 #EXTINF:5,DRAGON
 http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
 
-#EXTINF:5,DOONEE
+#EXTINF:6,DOONEE
 http://49.0.87.24:1936/HDDoonee/Live/playlist.m3u8
