@@ -1,12 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/5k5n74q5b23q4ii/Channel 8.png",Channel 8
-https://cdn-th.login.in.th/ch8/ch8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/f3ivcme1v0p2xdb/thairath32.png",Thairath TV
-http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/znwodgr8hepn5dq/NBT-1.png",NBT HD
-http://122.155.92.8:1935/live/ch1_L.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/i8bry7z3j9rjl5m/CH5-1.png",CH5 HD
-http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/payfutsals/m3u8/blob/main/logo/Attv.png",ATTV
+http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/payfutsals/m3u8/blob/main/logo/Mediatv.png,MEDIA TV
+http://49.0.87.24:1936/HDMediatv/Mediatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/payfutsals/m3u8/blob/main/logo/Jomyut.png",JOMYUT
+http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/payfutsals/m3u8/blob/main/logo/Dragon.png",DRAGON
+http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/35rbafuwhmdz3f6/TNN16.png",TNN16
-https://tnnthailand-8zdgwf.cdn.byteark.com/live/pl_720p/index.m3u8
+http://49.0.87.24:1936/HDDoonee/Live/playlist.m3u8
+
